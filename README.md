@@ -1,4 +1,3 @@
-# The-Wiki
-Source for the Empires Pierce Wiki. https://wiki.empirespierce.net
-
-Most of this is made using webflow. To contribute, join: https://discord.gg/tP72drZGht
+# The-Wiki https://wiki.empirespierce.net
+Source for the Empires Pierce Wiki. Most of this is made with webflow. 
+To contribute to the wiki, join https://discord.gg/tP72drZGht
